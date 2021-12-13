@@ -1,0 +1,52 @@
+{
+     "devs" : [
+    {
+        "id"       : 1,
+        "name"     :"Abu Sayeed",
+        "age"      :26,
+        "skill"    :"Laravel",
+        "location" :"comilla",
+        "gender"   :"Male",
+        "selary"   :1500   
+    },
+    {
+        "id"       : 2,
+        "name"     :"Md Mamun",
+        "age"      :21,
+        "skill"    :"DJango",
+        "location" :"Dhaka",
+        "gender"   :"Male",
+        "selary"   :2000   
+    },
+    {
+        "id"       : 3,
+        "name"     :"Nur Amin",
+        "age"      :22,
+        "skill"    :"Glango",
+        "location" :"Sylhet",
+        "gender"   :"Male",
+        "selary"   :1700   
+    },
+    {
+       "id"      :3,
+       "name"    :"Rakib Adnan",
+       "age"     :21,
+       "skill"   :"wordpress",
+       "location":"Barishal",
+       "gender"  :"Male",
+       "selary"  :2000
+
+    },
+    {
+        "id"       : 5,
+        "name"     :"Anamul Haq",
+        "age"      :24,
+        "skill"    :"java",
+        "location" :"Savar",
+        "gender"   :"Male",
+        "selary"   :2500   
+    }
+    
+]
+
+}
